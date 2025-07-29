@@ -23,7 +23,6 @@ int main() {
     }
     fclose(fp);
 
-    // Count duplicates and frequencies
     for (i = 0; i < n; i++) {
         if (freq[i] == -1)
             continue;
