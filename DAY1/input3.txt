@@ -1,0 +1,17 @@
+from collections import Counter
+
+# Read integers from file
+with open('input3.txt', 'r') as f:
+    data = f.read().split()
+    arr = [int(x) for x in data]
+
+# Count occurrences
+counter = Counter(arr)
+
+# a) Total number of duplicate elements
+duplicate_count = sum(1 for count in counter.values() if count > 1)
+print("Total number of duplicate elements:", duplicate_count)
+
+# b) Most repeating element
+most_common = counter.most_common(1)[0]
+print("Most repeating element:", most_common[0], "with", most_common[1], "occurrences")
