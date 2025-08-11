@@ -1,0 +1,15 @@
+n = 400
+
+Comparisons: 38465
+Time taken: 0.000000 seconds
+
+n = 400
+
+Comparisons: 40302
+Time taken: 0.000000 seconds
+
+n = 400
+
+Comparisons: 40594
+Time taken: 0.000000 seconds
+

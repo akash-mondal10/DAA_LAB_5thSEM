@@ -1,0 +1,15 @@
+n = 500
+
+Comparisons: 58922
+Time taken: 0.001000 seconds
+
+n = 500
+
+Comparisons: 62327
+Time taken: 0.001000 seconds
+
+n = 500
+
+Comparisons: 64485
+Time taken: 0.000000 seconds
+
