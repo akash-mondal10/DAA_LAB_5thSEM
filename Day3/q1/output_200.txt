@@ -1,0 +1,5 @@
+Sorted array: 1 2 3 4 5 n = 5
+
+Comparisons: 4
+Time taken: 0.000000 seconds
+
