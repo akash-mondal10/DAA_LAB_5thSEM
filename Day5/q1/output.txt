@@ -37,8 +37,7 @@ Time taken: 0.001000 seconds
 Number of comparisons for sorted array: 1760
 Time taken: 0.000000 seconds
 
-/nnumber of elements: 400
-
+number of elements: 400
 Number of comparisons for sorted array: 2473
 Time taken: 0.001000 seconds
 
