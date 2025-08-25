@@ -1,0 +1,44 @@
+number of elements: 100
+Sorted array: 
+Number of comparisons: 478
+Time taken: 0.001000 seconds
+
+number of elements: 200
+Sorted array: 
+Number of comparisons: 1081
+Time taken: 0.000000 seconds
+
+number of elements: 300
+Sorted array: 
+Number of comparisons: 1653
+Time taken: 0.001000 seconds
+
+number of elements: 400
+Sorted array: 
+Number of comparisons: 2671
+Time taken: 0.001000 seconds
+
+number of elements: 500
+Sorted array: 
+Number of comparisons: 3429
+Time taken: 0.001000 seconds
+
+number of elements: 100
+Number of comparisons for sorted array: 459
+Time taken: 0.000000 seconds
+
+/nnumber of elements: 200
+
+Number of comparisons for sorted array: 1084
+Time taken: 0.001000 seconds
+
+/nnumber of elements: 300
+
+Number of comparisons for sorted array: 1760
+Time taken: 0.000000 seconds
+
+/nnumber of elements: 400
+
+Number of comparisons for sorted array: 2473
+Time taken: 0.001000 seconds
+
